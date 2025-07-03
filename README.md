@@ -81,7 +81,8 @@ Built for **defense & field recon**, this tank integrates multiple sensors, wire
 
 ## 📸 Screenshots / Demo
 
-<img src="https://github.com/Kshitij-h0riz3n/landmine_sniffer/blob/main/Hardware/WhatsApp%20Image%202025-07-03%20at%2011.33.31%20PM.jpeg?raw=true" width="250">
+<img src="https://github.com/Kshitij-h0riz3n/landmine_sniffer/blob/main/Hardware/WhatsApp%20Image%202025-07-03%20at%2011.33.31%20PM.jpeg?raw=true" width="400">
+<img src="https://github.com/Kshitij-h0riz3n/landmine_sniffer/blob/main/Hardware/WhatsApp%20Image%202025-07-03%20at%2011.33.32%20PM%20(1).jpeg?raw=true" width="400">
 
 ---
 
