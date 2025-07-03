@@ -96,5 +96,5 @@ This project is open-source under the [MIT License](LICENSE).
 
 **Kshitij Shrawade**  
 `Electronics & Telecommunication Engg | DY Patil Institute of Technology`  
-📧 [Add your contact if needed]
+📧 kshitijshrawade@gmail.com
 
