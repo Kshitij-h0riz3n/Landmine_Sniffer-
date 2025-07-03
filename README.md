@@ -1,4 +1,4 @@
-# 🔥 Landmine_Sniffer
+# 🔥 landmine_sniffer
 
 A rugged, sensor-packed tactical robot designed for **real-time landmine detection**, **environmental monitoring**, **live surveillance**, and **Wi-Fi-based electronic attacks**.
 
